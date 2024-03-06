@@ -1,0 +1,10 @@
+D:\Документы\VS projects\!Monsters\ExpWithCamera\bin\Debug\ExpWithCamera.exe.config
+D:\Документы\VS projects\!Monsters\ExpWithCamera\bin\Debug\ExpWithCamera.exe
+D:\Документы\VS projects\!Monsters\ExpWithCamera\bin\Debug\ExpWithCamera.pdb
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.csproj.AssemblyReference.cache
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.Form1.resources
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.Properties.Resources.resources
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.csproj.GenerateResource.cache
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.exe
+D:\Документы\VS projects\!Monsters\ExpWithCamera\obj\Debug\ExpWithCamera.pdb
